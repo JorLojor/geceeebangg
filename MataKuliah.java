@@ -15,7 +15,7 @@ public class MataKuliah {
         this.listKuis = new ArrayList<>();
     }
 
-    // setter
+
     public void setNamaMK(String namaMK) {
         this.namaMK = namaMK;
     }
@@ -28,7 +28,7 @@ public class MataKuliah {
         this.listKuis = daftarKuis;
     }
 
-    // getter
+
 
     public String getNamaMK() {
         return namaMK;

@@ -9,7 +9,6 @@ public class Asesment {
         this.nimMahasiswa = nimMahasiswa;
     }
 
-    // getter
     public String getNamaMhasiswa() {
         return namaMhasiswa;
     }
